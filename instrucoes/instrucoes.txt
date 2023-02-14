@@ -1,0 +1,5 @@
+Pagina de receitas
+
+Precisa: Header, h1, h2, h3, main, section e p
+
+4 receitas de um tema especifico (bolo, torta, etc)
